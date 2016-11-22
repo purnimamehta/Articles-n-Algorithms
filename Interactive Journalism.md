@@ -200,4 +200,3 @@ An opinionated list of best practice examples of data journalism and visualizati
 * [Washington Post Graphics](https://twitter.com/PostGraphics)
 * [Webkid](http://webkid.io/)
 * [Zeit Online](http://zeit.de/datenjournalismus)
-0
