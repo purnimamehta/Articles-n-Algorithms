@@ -1,4 +1,6 @@
 # [Guide to Technical Interviews](https://github.com/Developer-Y/technical-interviews)
+    - All credit goes to its original owner, this repo is just for myself to have everything in one place in an organized manner.
+
 
 ### How to Prepare
 - [Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)
@@ -33,7 +35,7 @@
 ### Algorithms and Data Structures (Practice sites)
 - [InterviewBit](https://www.interviewbit.com/) ([All Questions](https://www.interviewbit.com/all-problem-list/?ref=landing-page))
 - [Geeks for Geeks](http://www.geeksforgeeks.org/) ([Practice](http://www.practice.geeksforgeeks.org/))
-- [Hired in Tech - Algorithms](https://www.hiredintech.com/learn-algorithms) 
+- [Hired in Tech - Algorithms](https://www.hiredintech.com/learn-algorithms)
 - [Leetcode](https://leetcode.com/)
 
 ### Algorithms and Data Structures (Interview questions)
@@ -94,7 +96,7 @@
 ### Books
 - Cracking the Coding Interview by Gayle Laakmann McDowell
 - Programming Interviews Exposed: Secrets to Landing Your Next Job
-- The Algorithm Design Manual 2nd Edition by Steven S Skiena 
+- The Algorithm Design Manual 2nd Edition by Steven S Skiena
 - Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash(separate Java edition)
 - Programming Pearls (2nd Edition) by Jon Bentley
 
